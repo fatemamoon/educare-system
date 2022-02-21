@@ -1,0 +1,152 @@
+.holiday h3 {
+    font-size: 2em;
+    font-weight: 700;
+    color: #34ad00;
+}
+
+.rom-btm h4 {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #34ad00;
+}
+
+.rom-btm h6 {
+    font-size: 1em;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.rom-btm {
+    margin-top: 2em;
+    box-shadow: 0px 0px 5px -1px rgb(0 0 0 / 37%);
+}
+
+.col-md-6 {
+    width: 50%;
+    float: left;
+}
+.room-midle {
+    padding: 1em;
+}
+.rom-btm {
+    padding: 0 10px;
+}
+.img-responsive {
+    padding: 10px 10px;
+    width: 280px;
+	display: block;
+    height: auto;
+}
+.rom-btm h4 {
+    font-size: 20px;
+    margin: 0;
+}
+.rom-btm h6 {
+    font-size: 14px;
+    color: #000;
+}
+
+.rom-btm p {
+    margin: 0;
+}
+
+
+
+a.view {
+    padding: 6px 18px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #34ad00;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+
+.container {
+    width: 1170px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.room-left {
+    float: left;
+    width: 30%;
+}
+
+/*-- rooms --*/
+.rooms-top {
+    background: url(1.png)no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 390px;
+    padding: 18em 0 0;
+}
+.rom-info {
+    background: rgba(63, 132, 177, 0.79);
+    padding: 1em 2em;
+}
+.rom-info h3 {
+    font-size: 1.8em;
+    color: #fff;
+    font-weight: 700;
+}
+.rom-info p {
+    font-size: 15px;
+    margin-top: 0.5em;
+    color: #fff;
+    line-height: 1.7em;
+}
+.rt-left {
+    float: left;
+}
+.rt-right {
+    float: right;
+}
+.rom-info h5 {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #fff;
+}
+.rom-btm {
+    margin-top: 2em;
+	box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.37);
+}
+.room-bottom h3 {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #34ad00;
+}
+.room-bottom {
+    padding: 2em 0;
+}
+.rom-btm h4 {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #34ad00;
+}
+.rom-btm p {
+    font-size: 15px;
+    color: #999;
+}
+.rom-btm h6 {
+    font-size: 1em;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+.room-right {
+    text-align: right;
+    padding: 3em 2em;
+}
+.room-midle {
+    padding: 1em;
+}
+.rom-btm h5 {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #999;
+}
